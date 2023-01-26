@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Fascinate+Inline&display=swap");
+body {
+  font-family: "Fascinate Inline", serif;
+  font-size: 13px;
+  text-shadow: 4px 4px 4px #a2d2ff;
+}
+
+h1 {
+  font-family: "Fascinate Inline", serif;
+  color: #bde0fe;
+}
+
+h2 {
+  font-family: "Fascinate Inline", serif;
+  color: #ffafcc;
+}
+
+h3 {
+  font-family: "Fascinate Inline", serif;
+  color: #ffafcc;
+}
+
+h4 {
+  font-family: "Fascinate Inline", serif;
+  color: #ffafcc;
+}
+
+h5 {
+  font-family: "Fascinate Inline", serif;
+  color: #ffafcc;
+}
+
+button {
+  font-family: "Fascinate Inline", serif;
+  color: #ffafcc;
+}
+
+body {
+  background-color: #bde0fe;
+}
+
+p {
+  font-family: "Fascinate Inline", serif;
+  color: #ffafcc;
+}
